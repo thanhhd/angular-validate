@@ -1,0 +1,7 @@
+{
+    "name": "angular-validate",
+    "version": "0.0.1",
+    "dependencies" : {
+        "angularjs": "*"
+    }
+}
